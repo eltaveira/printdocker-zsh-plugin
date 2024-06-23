@@ -2,7 +2,7 @@
 
 [oh-my-zsh plugin](https://github.com/ohmyzsh/ohmyzsh) for pretty print all docker objects.
 
-![]()
+![](./sample.gif)
 
 ## Install
 
